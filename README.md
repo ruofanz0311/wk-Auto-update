@@ -1,3 +1,4 @@
+# 是读写权限     不是读取存储权限   视频错了
 
 
 
@@ -123,3 +124,4 @@ GitHub Actions 会每日 00:00（UTC 时间）自动运行：
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=byJoey/wk-Auto-update&type=Timeline)](https://www.star-history.com/#byJoey/wk-Auto-update&Timeline)
+
